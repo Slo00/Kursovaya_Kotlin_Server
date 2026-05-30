@@ -1,6 +1,6 @@
 # Music Server
 
-Ktor backend для MusicApp. Использует **PostgreSQL** через ORM **Exposed**.
+Ktor backend для MusicApp
 
 ## Зависимости
 
@@ -51,7 +51,6 @@ MUSIC_DIR="/Users/kvltyapka/Music/MyMusic" ./gradlew run
 
 ## Схема БД
 
-См. [`src/main/kotlin/com/example/musicserver/db/Tables.kt`](src/main/kotlin/com/example/musicserver/db/Tables.kt)
 
 | Таблица | Описание |
 |---|---|
